@@ -1,5 +1,3 @@
-# coc6b4155bc9e741603cc069f
-
 Quick start:
 
 ```
